@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is hindung's space
 
 <!--
 **hindungWang/hindungWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🌱 I’m currently learning `K8s` `Docker`  `Go` 
+- 💬 Ask me about `K8s` `Docker` `Go` 
+- 📫 How to reach me: tangtione@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindungWang&show_icons=true&theme=radical)
