@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning `K8s` `Docker`  `Go` 
-- 💬 Ask me about `K8s` `Docker` `Go` 
+- 🌱 I’m currently learning `K8s` `Docker` `Go` `DDD` `Kitex RPC Framwork` `Gitaly` 
+- 💬 Ask me about `K8s` `Docker` `Go` `DDD` `Kitex RPC Framwork` `Gitaly` 
 - 📫 How to reach me: tangtione@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindungWang&show_icons=true&theme=radical)
