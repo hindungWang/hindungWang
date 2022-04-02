@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tangtione@qq.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hindungWang&show_icons=true&theme=radical)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v1.1.2
