@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/hindungWang#gh-dark-mode-only">
-  <image width='60%' src="https://cdn.jsdelivr.net/gh/hindungWang/hindungWang@snake-game/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <image width='60%' src="https://cdn.jsdelivr.net/gh/hindungWang/hindungWang@snake-game/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
