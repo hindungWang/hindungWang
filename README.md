@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning `K8s` `Docker` `Go` `DDD` `Kitex RPC Framwork` `Gitaly` 
 - 💬 Ask me about `K8s` `Docker` `Go` `DDD` `Kitex RPC Framwork` `Gitaly` 
-- 📫 How to reach me: tangtione@qq.com
+- 📫 How to reach me: hindung@foxmail.com
 
 
 <!--
