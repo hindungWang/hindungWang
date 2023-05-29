@@ -1,4 +1,4 @@
-### Hi there 👋 This is hindung's space
+### Hi there 👋 This is ✨ hindung's space ✨
 
 <!--
 **hindungWang/hindungWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning `K8s` `Docker` `Go` `DDD` `Kitex RPC Framwork` `Gitaly` 
-- 💬 Ask me about `K8s` `Docker` `Go` `DDD` `Kitex RPC Framwork` `Gitaly` 
+- 🌱 I’m currently learning `K8s` `Docker` `Go` `Rust` 
+- 💬 Ask me about `K8s` `Docker` `Go` `Fattening a cat` `Casserole porridge` ....
 - 📫 How to reach me: hindung@foxmail.com
 
 
